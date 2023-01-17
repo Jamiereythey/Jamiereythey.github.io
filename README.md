@@ -6,4 +6,5 @@ On the home page (jamiereythey.github.io), you'll find an intro video, a bio, an
 
 Links on the Navbar include the Home Page, MIT xPRO School Projects, Personal Projects dropdown menu, and a link to my Socials.
 
+<br>
 <img src = "jrey.jpeg">
